@@ -18,7 +18,7 @@ class VirusScannerApp:
 
         # Sử dụng Theme forest-light: https://github.com/rdbende/Forest-ttk-theme?tab=readme-ov-file
         style = ttk.Style(self.app)
-        self.app.call("source", "F:/TUHOCTAP/TKINTER/APP_CDCN/forest-light.tcl")
+        self.app.call("source", "F:/TUHOCTAP/TKINTER/SCAN_VIRUS_APP/forest-light.tcl")
         style.theme_use("forest-light")
 
         self.create_widgets()
