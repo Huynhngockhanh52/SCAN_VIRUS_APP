@@ -1,0 +1,10 @@
+tkinter
+ttkthemes
+yara
+
+# https://github.com/RobertJN64/TKinterModernThemes
+TKinterModernThemes 
+
+# Theme
+# https://github.com/rdbende/Forest-ttk-theme?tab=readme-ov-file
+# https://github.com/rdbende/Sun-Valley-ttk-theme/wiki/Usage-with-Python
